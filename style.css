@@ -1,0 +1,55 @@
+img{
+    
+    size: 1%;
+    width: 150px;
+}
+.image{
+    float: right;
+   
+}
+h2{
+    text-align: center;
+
+    color: blue;
+}
+td{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border-bottom   : 5px solid rgb(182, 179, 179);
+    
+    
+    
+}
+.myclass{
+    text-align: center;
+    
+
+}
+table{
+    
+    
+    margin: 0 auto;
+    border-spacing: 0px;
+    background-color: rgb(243, 238, 238);
+    
+}
+input{
+    width: 30px;
+    text-align: center;
+    font-size: larger;
+    color: rgb(20, 4, 238);
+}
+.classc{
+    background-color: rgb(17, 206, 206);
+    border-right: 5px solid black;
+    
+}
+tr{
+    
+    border-right: 5px solid black;
+}
+.classa{
+    margin-bottom: 10px;
+    
+}
